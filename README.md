@@ -39,6 +39,8 @@ Networks are not cables and boxes. **They are agreements under uncertainty.** Yo
 - [ ] Portfolio Integration & Final Review
 
 ### 📦 Codebase Structure
+
+```text
 networkprogramming2025/
 ├── week01-tcp-client-server-basic/
 ├── week02-udp-unicast-basic/
@@ -48,20 +50,20 @@ networkprogramming2025/
 ├── week06-manet-basic/
 ├── week07-store-forward-basic/
 ├── week08-opportunistic-routing-basic/
-│   ├── node.py                   (Opportunistic node)
-│   ├── delivery_table.py         (Probability table)
-│   └── config.py
+│   ├── node.py
+│   ├── delivery_table.py
+│   └── config.py
 ├── week09-bio-routing-basic/
-│   ├── node.py                   (Ant/Node implementation)
-│   ├── pheromone_table.py        (Reinforcement & Decay logic)
-│   └── config.py
+│   ├── node.py
+│   ├── pheromone_table.py
+│   └── config.py
 ├── week10-quantum-network-basic/
-│   ├── node.py                   (Quantum-aware node)
-│   ├── token.py                  (One-time-read logic)
-│   └── config.py
+│   ├── node.py
+│   ├── token.py
+│   └── config.py
 └── workshop/
-    ├── Curriculum- Network Programming 2025.md
-    └── [Lab guides and research notes]
+    ├── Curriculum- Network Programming 2025.md
+    └── [Lab guides and research notes]
 
 ## Key Learning Outcomes by Week
 
