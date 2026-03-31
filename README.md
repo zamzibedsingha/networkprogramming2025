@@ -64,7 +64,7 @@ networkprogramming2025/
 └── workshop/
     ├── Curriculum- Network Programming 2025.md
     └── [Lab guides and research notes]
-
+```
 ## Key Learning Outcomes by Week
 
 ### WEEK 1 – TCP Unicast
