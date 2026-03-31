@@ -1,0 +1,6 @@
+HOST = "127.0.0.1"
+BASE_PORT = 9011           # สลับร่างเป็น 9011
+PEER_PORTS = [9010, 9012]  # เปลี่ยนเพื่อนเป็น 9011, 9012 ด้วย
+BUFFER_SIZE = 1024
+FORWARD_THRESHOLD = 0.5 
+UPDATE_INTERVAL = 5

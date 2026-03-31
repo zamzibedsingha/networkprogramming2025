@@ -1,0 +1,6 @@
+HOST = "127.0.0.1"
+BASE_PORT = 11001
+PEER_PORTS = [11000, 11002]  # Example peers
+BUFFER_SIZE = 1024
+TOKEN_EXPIRY = 10  # seconds until token invalid
+UPDATE_INTERVAL = 5
